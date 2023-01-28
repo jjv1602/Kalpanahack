@@ -5,9 +5,8 @@
 
 * In this chatting web app you can easily block annoying good morning messages from your relatives and friends.
 * Good Morning Images also can be blocked.  For this used Optical Character Recognition (OCR) 
-* Also you can block abusive content.
 * It uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database
-* Fake News is also one of the best feature in this app . When we detect a fake message or fake image we add it to our spam list in our database so now everywhere the same message would be send it would have be flagged for fake news
+* Reduced Notification- Splice Chat would not show notifications of images you put in the block list. Thus you could reduce notifications and not skip important message
 
 ## Tech Stack
 
