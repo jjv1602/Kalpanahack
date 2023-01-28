@@ -1,0 +1,20 @@
+.You_msg:before{
+  content: "";
+  position: absolute;
+  right:-20px;
+  top: 0%;
+  border-width: 20px;
+  border-style: solid;
+  border-color: #B9F5D0 transparent transparent transparent;
+
+}
+.sender_msg:before{
+  content: "";
+  position: absolute;
+  left:-19px;
+  top: 0%;
+  border-width: 20px;
+  border-style: solid;
+  border-color: #BEE3F8 transparent transparent transparent;
+
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@600&display=swap');
+#av{
+   
+    border: 5px  hsl(135, 80%, 60%);
+    /* border: 5px  #dce5f8; */
+    border-style:ridge;
+    
+}
+
+#person{
+    font-family: 'Fredoka', sans-serif;
+}

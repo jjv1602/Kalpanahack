@@ -1,0 +1,7 @@
+.main {
+    background-color: #3973df;
+    background-image: linear-gradient(15deg, #3973df 0%, #b48dd0 100%);
+    min-height:100%;
+    background-size: cover;
+    width:100%;
+}

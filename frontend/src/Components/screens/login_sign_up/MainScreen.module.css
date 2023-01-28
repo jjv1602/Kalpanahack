@@ -1,0 +1,36 @@
+.main {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url('../../../Assets/rightbg.png'); 
+    min-height:100vh;
+    display: flex;
+    background-size: contain;
+}
+.container{
+    margin-top: 1%;
+    background-color: white;
+    position: relative;
+    margin-bottom: 1vh;
+}
+.par_img{
+    position: absolute;
+    left: 30%;
+    top:2%;    
+    height: 26vh;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+    
+}
+.logo{
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+}
+
+.authbox{
+    position: absolute;
+    top:35%;
+    width: 100%;
+    left:0;
+    
+}
